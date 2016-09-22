@@ -1,0 +1,2 @@
+System.debug('I am determined to start learning Salesforce development today');
+System.debug('Today is ' + Date.today());
